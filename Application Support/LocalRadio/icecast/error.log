@@ -1,0 +1,192 @@
+[2018-01-19  11:57:29] INFO main/main Icecast 2.4.2 server started
+[2018-01-19  11:57:29] INFO yp/yp_update_thread YP update thread started
+[2018-01-19  11:57:29] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2018-01-19  11:57:30] INFO connection/_handle_source_request Source logging in at mountpoint "/localradio" from 192.168.178.40
+[2018-01-19  11:57:30] INFO connection/_handle_source_request Source (/localradio) attempted to login with invalid or missing password
+[2018-01-19  11:57:30] INFO connection/_handle_source_request Source logging in at mountpoint "/localradio" from 192.168.178.40
+[2018-01-19  11:57:30] WARN format/format_get_type Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2018-01-19  11:57:31] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  11:57:32] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  11:57:32] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  11:58:23] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  11:58:23] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  11:58:44] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  11:58:45] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:00:38] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:00:39] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:00:39] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:01:01] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:01:03] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:01:04] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:01:35] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:01:39] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:01:39] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:01:39] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:01:42] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:01:49] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:01:50] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:01:51] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:02:15] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:02:16] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:02:16] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:02:16] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:02:17] INFO source/source_main listener count on /localradio now 4
+[2018-01-19  12:02:21] INFO source/source_main listener count on /localradio now 5
+[2018-01-19  12:02:22] INFO source/source_main listener count on /localradio now 6
+[2018-01-19  12:03:07] INFO source/send_to_listener Client 19 (192.168.178.51) has fallen too far behind, removing
+[2018-01-19  12:03:07] INFO source/source_main listener count on /localradio now 5
+[2018-01-19  12:03:10] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:03:10] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:04:20] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:04:20] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:06:23] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:06:24] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:07:39] INFO source/source_main listener count on /localradio now 6
+[2018-01-19  12:07:39] INFO source/source_main listener count on /localradio now 7
+[2018-01-19  12:07:39] INFO source/source_main listener count on /localradio now 6
+[2018-01-19  12:07:57] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:08:10] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:08:10] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:08:11] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:08:11] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:09:02] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:09:03] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:09:04] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:09:51] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:09:52] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:09:52] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:10:44] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:10:45] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:10:45] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:12:18] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:12:22] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:12:22] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:12:22] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:12:26] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:12:26] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:12:26] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:13:22] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:13:22] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:13:26] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:14:27] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:14:28] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:14:28] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:14:39] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:14:41] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:14:42] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:14:47] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:14:47] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:14:51] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:14:51] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:15:02] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:03] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:15:05] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:23] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:15:24] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:15:24] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:37] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:15:38] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:38] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:15:38] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:50] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:15:51] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:52] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:15:52] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:15:52] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:15:52] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:15:53] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:07] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:07] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:13] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:13] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:23] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:23] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:16:44] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:16:45] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:16:49] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:17:25] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:17:26] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:17:26] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:17:31] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:17:34] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:17:35] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:17:35] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:18:22] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:18:23] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:18:24] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:18:24] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:18:24] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:18:25] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:18:25] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:18:48] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:18:49] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:18:49] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:06] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:19:07] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:07] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:19:08] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:10] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:19:10] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:11] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:19:11] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:33] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:19:35] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:35] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:19:36] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:19:37] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:19:37] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:19:37] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:20:45] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:20:45] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:20:46] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:20:47] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:23:53] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:23:54] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:23:54] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:24:53] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:24:53] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:24:53] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:25:00] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:25:00] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:25:03] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:25:03] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:27:05] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:27:06] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:30:08] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:30:08] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:30:35] INFO source/get_next_buffer End of Stream /localradio
+[2018-01-19  12:30:35] INFO source/source_shutdown Source from 192.168.178.40 at "/localradio" exiting
+[2018-01-19  12:30:35] INFO sighandler/_sig_die Caught signal 15, shutting down...
+[2018-01-19  12:30:35] INFO main/main Shutting down
+[2018-01-19  12:30:35] INFO fserve/fserve_shutdown file serving stopped
+[2018-01-19  12:30:36] INFO slave/_slave_thread shutting down current relays
+[2018-01-19  12:30:36] INFO slave/_slave_thread Slave thread shutdown complete
+[2018-01-19  12:30:36] INFO auth/auth_shutdown Auth shutdown
+[2018-01-19  12:30:36] INFO yp/yp_shutdown YP thread down
+[2018-01-19  12:30:37] INFO stats/stats_shutdown stats thread finished
+[2018-01-19  12:31:01] INFO main/main Icecast 2.4.2 server started
+[2018-01-19  12:31:01] INFO yp/yp_update_thread YP update thread started
+[2018-01-19  12:31:01] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2018-01-19  12:31:03] INFO connection/_handle_source_request Source logging in at mountpoint "/localradio" from 192.168.178.40
+[2018-01-19  12:31:03] INFO connection/_handle_source_request Source (/localradio) attempted to login with invalid or missing password
+[2018-01-19  12:31:03] INFO connection/_handle_source_request Source logging in at mountpoint "/localradio" from 192.168.178.40
+[2018-01-19  12:31:03] WARN format/format_get_type Unsupported or legacy stream type: "audio/mpeg". Falling back to generic minimal handler for best effort.
+[2018-01-19  12:31:03] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:31:04] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:31:05] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:31:07] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:31:07] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats)
+[2018-01-19  12:31:13] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:31:13] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:31:13] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:31:15] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:32:15] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:32:16] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:32:16] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:32:28] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:32:29] INFO source/source_main listener count on /localradio now 3
+[2018-01-19  12:32:29] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:32:30] INFO source/source_main listener count on /localradio now 0
+[2018-01-19  12:32:33] INFO source/source_main listener count on /localradio now 1
+[2018-01-19  12:32:33] INFO source/source_main listener count on /localradio now 2
+[2018-01-19  12:32:33] INFO source/source_main listener count on /localradio now 1
